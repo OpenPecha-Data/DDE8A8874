@@ -1,0 +1,22 @@
+id: DDE8A8874
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-11-12T09:44:49+00:00'
+last_modified: '2022-05-26T12:38:19.569860+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    8b0e:
+      image_group_id: I1PD95883
+      title: དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་དམ་ཚིག་བསྲུང་བའི་སྒྲུབ་ཐབས།
+      total_pages: 1044
+      order: 38
+      base_file: 8b0e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
